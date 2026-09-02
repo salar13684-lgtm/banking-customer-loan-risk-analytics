@@ -1,0 +1,5 @@
+"customer_segment","loan_count","total_outstanding","payment_count","late_payment_count","average_days_late","late_payment_rate"
+"Mass Market","9522","15602974554.16","153334","39188","4.42","25.56"
+"Mass Affluent","7089","12961567047.96","113271","27818","3.24","24.56"
+"Affluent","4104","8879606773.29","65524","15632","2.16","23.86"
+"Premium","1285","3269276214.42","19974","4344","1.89","21.75"

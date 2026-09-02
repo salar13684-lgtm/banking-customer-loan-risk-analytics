@@ -1,0 +1,4 @@
+"payment_status","payment_count","total_payment_amount","average_payment_amount","average_days_late","late_payment_count"
+"Paid","321294","15285054583.56","47573.42","0.26","56173"
+"Late","24819","1131183522.13","45577.32","29.65","24819"
+"Missed","5990","0.00","0.00","67.28","5990"

@@ -1,0 +1,6 @@
+"delinquency_bucket","payment_count","total_payment_amount","average_days_late"
+"On Time","265121","12348928692.47","0.00"
+"1-7 Days Late","68702","3498209119.50","1.95"
+"8-30 Days Late","3909","137151110.67","19.07"
+"31-60 Days Late","6799","217819280.32","45.48"
+"61+ Days Late","7572","214129902.73","93.14"
