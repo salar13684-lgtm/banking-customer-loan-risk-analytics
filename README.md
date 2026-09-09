@@ -59,22 +59,22 @@ The project is designed to answer practical banking and portfolio questions incl
 
 Place the following screenshots in the repository's `screenshots/` folder:
 
-### 01 — Executive Overview
+### 01 Executive Overview
 ![Executive Overview](screenshots/banking-customer-loan-risk-analytics-executive-overview.jpg.jpg)
 
-### 02 — Customer Segment Analysis
+### 02 Customer Segment Analysis
 ![Customer Segment Analysis](screenshots/banking-customer-segment-analysis-postgresql.jpg.jpg)
 
-### 03 — Loan Portfolio & Regional Exposure
+### 03 Loan Portfolio & Regional Exposure
 ![Loan Portfolio and Regional Exposure](screenshots/banking-loan-portfolio-regional-exposure-analysis.jpg.jpg)
 
-### 04 — Loan Application Funnel
+### 04 Loan Application Funnel
 ![Loan Application Funnel](screenshots/banking-loan-application-funnel-analysis-postgresql.jpg.jpg)
 
-### 05 — Payment & Delinquency Risk Analysis
+### 05 Payment & Delinquency Risk Analysis
 ![Payment and Delinquency Risk](screenshots/banking-payment-delinquency-risk-analysis.jpg.jpg)
 
-### 06 — Regional Credit Risk & Payment Exposure
+### 06 Regional Credit Risk & Payment Exposure
 ![Regional Credit Risk and Payment Exposure](screenshots/Regional%20Credit%20Risk%20%26%20Payment%20Exposure.jpg)
 
 ---
